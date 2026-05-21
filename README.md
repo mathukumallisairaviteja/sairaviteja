@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Mathukumalli Sai Raviteja 👋</h1>
+<h1 align="center">Hi there, I'm Mathukumalli Sai Raviteja </h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E86C1&center=true&vCenter=true&width=600&lines=MBA+%7C+Pharmaceutical+Management;Aspiring+Pharma+Business+Leader;Data+Analysis+%7C+Market+Research+Enthusiast" alt="Typing SVG" />
