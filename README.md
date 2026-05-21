@@ -79,8 +79,8 @@
 
 | Degree | Institution | Year |
 |--------|------------|------|
-| MBA – Pharmaceutical Management | [Your University Name] | 2023 – 2025 |
-| [Bachelor's Degree] | [Your University Name] | [Year] |
+| MBA – Pharmaceutical Management | [IIHMR UNIVERSITY] | 2025 – 2027 |
+| [Bachelorin Pharmacy] | [Acharya Nagarjuna Univerisity] |2019-2023] |
 
 ---
 
